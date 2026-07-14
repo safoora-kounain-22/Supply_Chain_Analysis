@@ -189,63 +189,33 @@ Predicts whether an order is at risk of late delivery using historical data.
 
 ### Dashboard Overview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/safoora-kounain-22/Supply_Chain_Analysis/blob/main/Supply%20Chain%20Analysis%20SnapShot-1.png)
 
 ---
 
 ### Delivery Delay Distribution
 
-![Delay Distribution](images/delay_distribution.png)
+![Delay Distribution](https://github.com/safoora-kounain-22/Supply_Chain_Analysis/blob/main/Supply%20Chain%20Analysis%20SnapShot-2.png)
 
 ---
 
 ### Regional Analysis
 
-![Regional Analysis](images/regional_analysis.png)
+![Regional Analysis](https://github.com/safoora-kounain-22/Supply_Chain_Analysis/blob/main/Supply%20Chain%20Analysis%20SnapShot-3.png)
 
 ---
 
 ### Shipping Mode Analysis
 
-![Shipping Mode](images/shipping_mode.png)
+![Shipping Mode](https://github.com/safoora-kounain-22/Supply_Chain_Analysis/blob/main/Supply%20Chain%20Analysis%20Snapshot-4.png)
 
 ---
 
 ### Profitability Analysis
 
-![Profitability](images/profitability_analysis.png)
+![Profitability](https://github.com/safoora-kounain-22/Supply_Chain_Analysis/blob/main/Supply%20Chain%20Analysis%20SnapShot-5.png)
 
 ---
-
-### Customer Segment Analysis
-
-![Customer Segment](images/customer_segment.png)
-
----
-
-### Monthly Order Trends
-
-![Monthly Trends](images/monthly_trends.png)
-
----
-
-### Machine Learning Results
-
-![Model Results](images/model_results.png)
-
----
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
----
-
 # About
 
 This project demonstrates how data analytics and machine learning can be applied to optimize supply chain operations by identifying delivery delays, improving logistics efficiency, and generating actionable business insights through data-driven decision-making.
-
-
-Computer Science Undergraduate | Data Analytics Enthusiast
-
-**Skills:** Python • SQL • Power BI • Excel • Machine Learning • Data Visualization
